@@ -1,1 +1,1 @@
-flowControlFilter=com.czp.opensource.FlowControlFilter
+flowControlFilter=com.czp.dubbo.ext.FlowControlFilter
